@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @tingzi520
-- 👀 I’m interested in E-commerce
-- 🌱 I’m currently learning How to sell goods?
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me huangluting520@qq.com
+
